@@ -1,3 +1,5 @@
 # Spirte_IG.WXZ
-CS3505 group project
+
+Group: Ken Wang, MingQiu Zhang, PengXi Wang, XiaoChuang Huang
+
 ![Spirte_IG.WXZ](https://raw.githubusercontent.com/kenmingwang/Spirte_IG.WXZ/master/SystemDesign/UML_DIAGRAM.png)
